@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.viii28technology.maskedtextfield.MaskedTextField?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+
+<StackPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="435.0" prefWidth="681.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.ceciltechnology.viii28stw.frontend.controller.form.registrations.CadastroUsuarioController">
+   <children>
+      <AnchorPane id="AnchorPane" prefHeight="456.0" prefWidth="681.0">
+         <children>
+            <GridPane layoutX="53.0" layoutY="29.0" prefHeight="306.0" prefWidth="586.0">
+               <columnConstraints>
+                  <ColumnConstraints fillWidth="false" hgrow="SOMETIMES" maxWidth="585.0" minWidth="10.0" prefWidth="496.0" />
+               </columnConstraints>
+               <rowConstraints>
+                  <RowConstraints maxHeight="85.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints maxHeight="85.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints maxHeight="85.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints maxHeight="85.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+               </rowConstraints>
+               <children>
+                  <HBox alignment="CENTER_LEFT" prefHeight="69.0" prefWidth="267.0" spacing="1.0">
+                     <children>
+                        <MaskedTextField fx:id="jmskCodigo" mask="N!" onKeyPressed="#jmskCodigoUsuarioKeyPressed" onKeyReleased="#jmskCodigoUsuarioKeyReleased" prefWidth="213.0" promptText="Código" />
+                        <Button fx:id="jbtnLocalizarUsuario" onAction="#btnSearchUserAction" prefHeight="30.0" prefWidth="40.0" styleClass="button-pesquisar" text="...">
+                           <HBox.margin>
+                              <Insets left="5.0" />
+                           </HBox.margin>
+                        </Button>
+                     </children>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" prefHeight="85.0" prefWidth="599.0" spacing="52.0" GridPane.rowIndex="1">
+                     <children>
+                        <TextField fx:id="jtxNome" prefWidth="259.0" promptText="Nome" />
+                        <TextField fx:id="jtxSobrenome" prefWidth="259.0" promptText="Sobrenome" />
+                     </children>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" prefHeight="85.0" prefWidth="599.0" spacing="52.0" GridPane.rowIndex="2">
+                     <children>
+                        <ComboBox fx:id="jcbxSexo" prefWidth="259.0" promptText="Sexo" />
+                        <TextField fx:id="jtxEmail" prefWidth="259.0" promptText="E-mail" />
+                     </children>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" prefHeight="70.0" prefWidth="599.0" spacing="52.0" GridPane.rowIndex="3">
+                     <children>
+                        <PasswordField fx:id="jpwSenha" prefWidth="259.0" promptText="Senha" />
+                        <PasswordField fx:id="jpwConfirmarSenha" prefWidth="259.0" promptText="Confirmar Senha" />
+                     </children>
+                  </HBox>
+
+               </children>
+            </GridPane>
+            <Button fx:id="jbtnSalvar" layoutX="173.0" layoutY="373.0" onAction="#jbtnSalvarAction" prefHeight="40.0" prefWidth="125.0" styleClass="jfx-button-salvar" text="%button.save" />
+            <Button fx:id="jbtnExcluir" layoutX="303.0" layoutY="373.0" onAction="#jbtnExcluirAction" prefHeight="40.0" prefWidth="110.0" styleClass="jfx-button-excluir" text="EXCLUIR" />
+            <Button fx:id="jbtnLimpar" layoutX="418.0" layoutY="373.0" onAction="#jbtnLimparAction" prefHeight="40.0" prefWidth="100.0" styleClass="jfx-button-limpar" text="LIMPAR" />
+         </children>
+      </AnchorPane>  
+   </children>
+</StackPane>

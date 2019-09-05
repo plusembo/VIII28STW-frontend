@@ -1,0 +1,37 @@
+
+Fsquid:S1066X"/Merge this if statement with the enclosing one.(’”“Ô
+Esquid:S1604 "(Make this anonymous inner class a lambda(©­áÿÿÿÿÿÿ
+squid:S1186Ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îÜşÎıÿÿÿÿ
+nsquid:S3776B"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(ÛŒ¦…ıÿÿÿÿ
+wsquid:S3923p"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¹ğÈŒşÿÿÿÿ
+rsquid:S3923~"[Remove this conditional structure or edit its code blocks so that they're not all the same.(—µïè
+ssquid:S3923‘"[Remove this conditional structure or edit its code blocks so that they're not all the same.(÷¥³
+ssquid:S3923¤"[Remove this conditional structure or edit its code blocks so that they're not all the same.(£àÕ–
+Rsquid:S1854Ş":Remove this useless assignment to local variable "salvou".(üÙ«Î
+Csquid:S1481Ş"+Remove this unused "salvou" local variable.(üÙ«Î
+bsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(Ä÷ŒÏ
+gsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(Œúçåÿÿÿÿÿ
+bsquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(—ÊÖ
+asquid:CommentedOutCodeLineq"<This block of commented-out lines of code should be removed.(˜’Òx
+gsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(‡ÿ¶‡øÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œ›¾
+hsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(“÷Ô¾ıÿÿÿÿ
+csquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(œ›¾
+bsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(´¦Í>
+hsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(²‹ëâûÿÿÿÿ
+bsquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(´¦Í>
+hsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(¨ÛËûÿÿÿÿ
+hsquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(ïõ™§úÿÿÿÿ
+csquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(ù©ë£
+hsquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(á»ã¨şÿÿÿÿ
+hsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(™ºŞÀúÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ïõ™§úÿÿÿÿ
+hsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(²‹ëâûÿÿÿÿ
+hsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(“÷Ô¾ıÿÿÿÿ
+bsquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(˜’Òx
+hsquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(¢§ÁÒøÿÿÿÿ
+csquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(Ä÷ŒÏ
+hsquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(‡ÿ¶‡øÿÿÿÿ
+hsquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(­Ö»ùÿÿÿÿ
+csquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(Ûâı’
+hsquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(¨ÛËûÿÿÿÿ

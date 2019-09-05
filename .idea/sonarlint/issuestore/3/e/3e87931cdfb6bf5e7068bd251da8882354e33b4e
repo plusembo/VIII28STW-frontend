@@ -1,0 +1,10 @@
+
+\squid:S2184o"@Cast one of the operands of this addition operation to a "long".(ˆàŠûÿÿÿÿ
+Dsquid:S1604]"(Make this anonymous inner class a lambda(éŞÈÕøÿÿÿÿ
+Dsquid:S1604d"(Make this anonymous inner class a lambda(£÷¡Îùÿÿÿÿ
+Csquid:S1612E",Replace this lambda with a method reference.(ÃÉş©
+Csquid:S1602E",Remove useless curly braces around statement(ÃÉş©
+nsquid:S3776V"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¿¤‰’ùÿÿÿÿ
+bsquid:S2142l"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ
+Isquid:S1602›",Remove useless curly braces around statement(ğ½€äøÿÿÿÿ
+Gsquid:S2093¶"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
