@@ -21,7 +21,7 @@
  ******************************************************************************/
 
 .text-field {
-    -fx-skin: "com.viii28stw.pensiltikfrontend.util.style.MetroTextFieldSkin";
+    -fx-skin: "com.ceciltechnology.viii28stw.frontend.util.style.MetroTextFieldSkin";
 }
 
 .text-input {
@@ -86,7 +86,7 @@
  ******************************************************************************/
 
 .password-field {
-    -fx-skin: "com.viii28stw.pensiltikfrontend.util.style.MetroPasswordFieldSkin";
+    -fx-skin: "com.ceciltechnology.viii28stw.frontend.util.style.MetroPasswordFieldSkin";
 }
 
 .password-field > .right-button > .right-button-graphic {

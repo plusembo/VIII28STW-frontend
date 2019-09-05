@@ -1,8 +1,8 @@
 
 Fsquid:S16044"(Make this anonymous inner class a lambda(ú›…ó8¿ÁöÏ-
-Fsquid:S1604:"(Make this anonymous inner class a lambda(§Ÿ‡8¿ÁöÏ-
 Ksquid:S1604A"(Make this anonymous inner class a lambda(Ê…Ñúÿÿÿÿÿ8¿ÁöÏ-
-Ksquid:S1604G"(Make this anonymous inner class a lambda(Ëô—ñıÿÿÿÿ8¿ÁöÏ-
-¤squid:S1186n"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×ì¨Áøÿÿÿÿ8¿ÁöÏ-
-Ÿsquid:S1186q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚Ï™8¿ÁöÏ-
 fsquid:HiddenFieldCheck3"=Rename "textField" which hides the field declared at line 22.(Ã¶˜Ç8¿ÁöÏ-
+¤squid:S1186n"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×ì¨Áøÿÿÿÿ8¿ÁöÏ-
+Ksquid:S1604G"(Make this anonymous inner class a lambda(Ëô—ñıÿÿÿÿ8¿ÁöÏ-
+Fsquid:S1604:"(Make this anonymous inner class a lambda(§Ÿ‡8¿ÁöÏ-
+Ÿsquid:S1186q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚Ï™8¿ÁöÏ-

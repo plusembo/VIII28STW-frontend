@@ -1,10 +1,0 @@
-
-usquid:S3776V"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¿¤‰’ùÿÿÿÿ8íçÊşÉ-
-Csquid:S1612E",Replace this lambda with a method reference.(ÃÉş©
-Nsquid:S2093¶"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8íÈëşÉ-
-csquid:S2184o"@Cast one of the operands of this addition operation to a "long".(ˆàŠûÿÿÿÿ8çı¬şÉ-
-isquid:S2142l"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8ÒÎ¦şÉ-
-Csquid:S1602E",Remove useless curly braces around statement(ÃÉş©
-Psquid:S1602›",Remove useless curly braces around statement(ğ½€äøÿÿÿÿ8øÛµ±Ê-
-Ksquid:S1604d"(Make this anonymous inner class a lambda(£÷¡Îùÿÿÿÿ8ö°£şÉ-
-Ksquid:S1604]"(Make this anonymous inner class a lambda(éŞÈÕøÿÿÿÿ8Ù¾şıÉ-
